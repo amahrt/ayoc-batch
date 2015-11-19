@@ -1,7 +1,8 @@
 {
-    "name": "ayoc/batch",
+    "name": "aboutyou/ayoc-batch",
     "description": "Provides classes to handle batch processing of data.",
     "type": "library",
+    "license": "Apache-2.0",
     "require": {
         "php": ">=5.4.0",
         "psr/log": "~1.0"
