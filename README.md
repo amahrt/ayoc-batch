@@ -11,7 +11,7 @@ Features:
 ### Installation
 This library is designed to be used with composer. You can require it by issuing the following command.
 
-> `php composer.phar require ayoc/batch:~1.0`
+> `php composer.phar require aboutyou/ayoc-batch:~1.0`
 
 ### Usage
 
