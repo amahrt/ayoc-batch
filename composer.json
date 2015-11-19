@@ -1,0 +1,20 @@
+{
+    "name": "ayoc/batch",
+    "description": "Provides classes to handle batch processing of data.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "psr/log": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Jochen Niebuhr",
+            "email": "jochen.niebuhr@aboutyou.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Ayoc\\Batch\\": "src/"
+        }
+    }
+}
